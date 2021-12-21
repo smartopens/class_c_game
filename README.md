@@ -31,7 +31,7 @@
 
 사용자 입력에 따라 용사,공주 움직이기 기능
 
-## 주요 게임 화면
+## 프로그램 동작
 
 ![image](https://user-images.githubusercontent.com/44837403/123359814-0d579e00-d5a8-11eb-866c-d4967bdf1912.png)
 
