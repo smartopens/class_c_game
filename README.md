@@ -1,4 +1,4 @@
-## ComputerScience_Konkuk_Game_with_C_Program
+## Konkuk_Game_with_C_Program
 
 대학교에서 진행한 C프로그래밍 기반의 게임만들기 프로젝트
 
@@ -15,11 +15,11 @@
 
 
 
-## 진행 기간
+### 진행 기간
 2020-06-01 ~ 2019-06-17
 
 
-## 프로젝트 구성
+### 프로젝트 구성
 
 난이도 선택 및 시작, 종료하는 Menu 기능
 
@@ -31,11 +31,6 @@
 
 사용자 입력에 따라 용사,공주 움직이기 기능
 
-## 프로그램 동작
+### 프로그램 동작
 
-![image](https://user-images.githubusercontent.com/44837403/123359814-0d579e00-d5a8-11eb-866c-d4967bdf1912.png)
-
-
-## 결과물 및 시연영상
-
-https://www.youtube.com/watch?v=NTWnH4YBoZ4&t=124s    
+![image](https://user-images.githubusercontent.com/44837403/177162770-7165cc1f-1617-4bb9-b251-0a32c0270b5c.png)
