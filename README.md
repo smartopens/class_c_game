@@ -1,8 +1,6 @@
-### Game by C
+### game with c
 
-C프로그래밍 기반의 게임만들기 프로젝트
-
-[네모 용사와 동그라미 공주의 모험]
+console c game
 
 ### 프로젝트
 
